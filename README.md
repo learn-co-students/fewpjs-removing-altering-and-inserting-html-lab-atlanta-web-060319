@@ -1,4 +1,4 @@
-# Creating and Inserting DOM Nodes
+cd # Creating and Inserting DOM Nodes
 
 ## Learning Goals
 
